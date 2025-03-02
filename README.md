@@ -1,4 +1,4 @@
-### probality detected
+### probably detected
 
 In this article, we will analyze and bypass the auth (authentication) system made by the signed driver of a popular valorant color aimbot sold globally. (HVCI, TPM, Secure Boot ON)
 
