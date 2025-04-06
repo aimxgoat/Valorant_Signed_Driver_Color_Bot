@@ -1,5 +1,3 @@
-### probably detected
-
 In this article, we will analyze and bypass the auth (authentication) system made by the signed driver of a popular valorant color aimbot sold globally. (HVCI, TPM, Secure Boot ON)
 
 1. We unpack the virtualized exe and driver file and open it with IDA Pro to read it better. (I will not explain the unpacking steps)
